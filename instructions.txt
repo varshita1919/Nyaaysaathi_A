@@ -1,0 +1,10 @@
+get your api key from google ai studio ,copy it
+check for windows command to use it
+create a virtual environment,run your project there
+
+to run,go to terminal activate virtual environment,activate api key,
+python3 collect_data.py
+
+Check legal_data.csv if files r getting added 
+install necessary modules all in virtual environment
+any problem ask chatgpt!!! or gemini!!!
